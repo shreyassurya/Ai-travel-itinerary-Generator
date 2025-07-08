@@ -6,17 +6,21 @@ A full-stack web application that helps users plan their trips by providing AI-p
 ## 📱 [Visit this Project](https://ai-trip-planner-barika.vercel.app/)
 
 ## 💻 Technologies
-Frontend:
 
-React: For building the user interface and handling frontend logic.
-TailwindCSS: For styling and responsive design.
-Axios: For making HTTP requests to external APIs.
-Backend & Services:
+### 🖥️ *Frontend*
 
-Google Generative AI API: For generating AI-powered travel recommendations and itineraries.
-Google Places API: For retrieving detailed information about places, hotels, and their photos.
-Firebase Firestore: For storing and managing user trip data.
-Firebase Authentication: For handling user authentication via Google OAuth.
+- **React**: For building the user interface and handling frontend logic.  
+- **TailwindCSS**: For styling and responsive design.  
+- **Axios**: For making HTTP requests to external APIs.  
+
+---
+
+### ⚙️ *Backend & Services*
+
+- **Google Generative AI API**: For generating AI-powered travel recommendations and itineraries.  
+- **Google Places API**: For retrieving detailed information about places, hotels, and their photos.  
+- **Firebase Firestore**: For storing and managing user trip data.  
+- **Firebase Authentication**: For handling user authentication via Google OAuth.  
 
 
 ## 🚀 Features
