@@ -59,8 +59,9 @@ My Trips Page:
 Responsive view on mobile:
 ![image](https://github.com/user-attachments/assets/e30631d1-aa9f-4fa9-9e62-82fee601dc25)
 
-
 ## 🗁 Prerequisites
-Node.js & npm
-Firebase Project: Set up a Firebase project and configure Firestore and Authentication. Obtain your Firebase configuration keys.
-Google API Keys: Obtain API keys for Google Generative AI and Google Places API.
+
+- **Node.js & npm**: Make sure Node.js and npm are installed on your system.
+- **Firebase Project**: Set up a Firebase project and configure Firestore and Authentication. Obtain your Firebase configuration keys.
+- **Google API Keys**: Obtain API keys for Google Generative AI and Google Places API.
+
